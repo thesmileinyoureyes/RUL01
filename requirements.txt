@@ -7,3 +7,18 @@ requests>=2.21.0
 tsfresh>=0.11.1
 graphviz>=0.10.1
 composeml>=0.3.0
+numpy
+matplotlib>=3.*
+seaborn==0.10.1
+pandas
+numpy
+scipy
+matplotlib
+Pillow
+scikit-learn
+
+################################################################
+# TensorFlow v.2.1 and above include both CPU and GPU versions.
+
+tensorflow
+keras
