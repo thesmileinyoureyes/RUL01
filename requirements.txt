@@ -22,4 +22,5 @@ scikit-learn
 
 tensorflow
 keras
-ZigZag
+zigzag
+pandas_datareader
